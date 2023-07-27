@@ -1,3 +1,20 @@
+
+![image](https://github.com/Shade78/ReactPostList/assets/43784874/a09a17bc-b306-4673-919b-6a131763e45c)
+![image](https://github.com/Shade78/ReactPostList/assets/43784874/929cd7cc-7890-4718-859a-9431087d5453)
+![image](https://github.com/Shade78/ReactPostList/assets/43784874/e516b510-3aa3-4063-9660-744c63861ef8)
+![image](https://github.com/Shade78/ReactPostList/assets/43784874/99d107f2-7ba3-4cca-bf24-995cdeddd599)
+![image](https://github.com/Shade78/ReactPostList/assets/43784874/92d6b50f-5607-4f8a-811b-92bb3a745fa6)
+![image](https://github.com/Shade78/ReactPostList/assets/43784874/f6082c16-22a3-469b-9cb8-912509fa8cd8)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
